@@ -3,5 +3,5 @@ This dataset provides aggregated life expectancy data averaged over multiple yea
 
 ![Image Alt](https://github.com/akuyaesekon/expectancy-data/blob/main/output.png)
 ![Image Alt](https://github.com/akuyaesekon/expectancy-data/blob/main/scatter.png)
-![Image Alt](https://github.com/akuyaesekon/expectancy-data/blob/main/Screenshot%202024-12-22%20113553.png)
+![Image Alt](https://github.com/akuyaesekon/expectancy-data/blob/main/bar.png)
 
